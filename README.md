@@ -1,16 +1,28 @@
-# flutter_dark_theme
+# flutter-dark-theme
 
-A new Flutter project.
+> Sample Flutter app implementing dark theme and theme changing.
 
-## Getting Started
+## Prerequisites
 
-This project is a starting point for a Flutter application.
+- [Flutter](https://flutter.dev/) for running the project
 
-A few resources to get you started if this is your first Flutter project:
+## Installing
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Basically clone the project and install packages.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```sh
+# Clone the project
+git clone https://github.com/danielccunha/flutter-dark-mode
+cd flutter-dark-mode
+
+# Install packages
+flutter pub get
+```
+
+## Usage
+
+Finally, run the project using `flutter run` with an open Android/iOS emulator or a configured phone connected to your machine.
+
+## License
+
+Licensed under the MIT license.
